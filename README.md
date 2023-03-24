@@ -22,7 +22,7 @@
 **Simulation parameters:**
 The different parameters can be found in the web of IAC-Star application:"http://iac-star.iac.es/cmd/www/form.htm" and a more detailed description in this web:"http://iac-star.iac.es/cmd/www/manual/node1.html".
 
-Default values are set for every parameter except for name, email or institution. It is possible to add multiple values to a single parameter, to a group or to all of them. 
+Default values are set for every parameter except for name, email and institution. It is possible to add multiple values to a single parameter, to a group or to all of them. 
 
 ## Author:
 
