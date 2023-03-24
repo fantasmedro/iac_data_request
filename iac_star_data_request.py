@@ -30,7 +30,7 @@ driver = webdriver.Chrome(options=chrome_options)
 
 
 def data_request():
-    with open('/home/pedro/master/iac_data_request/config.json', 'r') as config_file:
+    with open('config.json', 'r') as config_file:
          config = json.load(config_file) #Loads info from configuration file
          names = list(config.keys()) #We create a list of different fields present in the form of IAC Star
          if config['nrequest'] >= 1:
