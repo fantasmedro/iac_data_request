@@ -4,9 +4,9 @@
 * Google Chrome(used in headless mode to limit the use of resources) 
 * Python Module: Selenium
 
-## Algorithm information:
+## Algorithm:
 
-**iac_star_data_request.py**: Send a selected number of resquest to IAC-Star in headless mode
+**iac_star_data_request.py**: Script to make requests to IAC-Star.
 
 ## Configuration file:
 
